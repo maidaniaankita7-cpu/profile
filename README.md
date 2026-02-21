@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ankita Kumari</h1>
 <p align="center">
 </p>
-<h3 align="center">🚩 A Data Scientist  From India. 🚩
+<h3 align="center">🚩 A Data Analyst From India. 🚩
 
 
 
