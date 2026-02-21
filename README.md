@@ -33,19 +33,13 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently doing training of **Data Analysis** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
-- ⚡ My specialaization in **Python  , c , SQL , ML , DL  **
+- ⚡ My specialaization in **Python , SQL , Excel, power BI**
   
-- ⚡ Dealing with **Large language models**, utilizing **GenerativeAi tools & techniques** , develop cutting edge applications.
+- ⚡ Dealing with **Large language models**, certified in **GenerativeAi tools & techniques** 
 
-- 😎 Handling structured and non-structured data, and querying the data from Mysql and MongoDB , RDS
-    
-- ✨ Worked AWS cloud and utilizes AWS services  **EC2 , ECR , RDS ,EBS , IAM , CodePipeline , S3 Bucket , sagemaker**
-
-- 😎 **Providing Data Science and machine learning**  training on upflairs Pvt. Ltd. jaipur Rajasthan.
-
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/govind-kumawat2002?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/maidaniaankita7-cpu)
 
 
 
@@ -79,18 +73,6 @@
 <br/>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Govind-kumawat2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Govind-kumawat2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-kumawat2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## **CONNECT WITH ME**:
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ranjitsinghdatascientist/)
-<a href="https://www.instagram.com/kmt_govind/" target="_blank"> 
-<a href="https://www.linkedin.com/in/govind kumawat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
-</a>
-<a href="mailto:kumawatritik54@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Connect me-blue?style=for-the-badge&logo=gmail" alt="Gmail Email">
-</a>
+![](https://github-readme-stats.vercel.app/api?username=maidaniaankita7-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maidaniaankita7-cpu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maidaniaankita7-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact. 
